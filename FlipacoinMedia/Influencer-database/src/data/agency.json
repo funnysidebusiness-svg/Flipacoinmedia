@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "agencyname": "TYG Media",
+    "location": "Mumbai",
+    "primaryPOC": "Raunak",
+    "pocno": "9987118696",
+    "secondarypoc": "Yash Barua"
+  },
+ {
+    "id": 2,
+    "agencyname": "Quantum",
+    "location": "Mumbai",
+    "primaryPOC": "Ronika",
+    "pocno": "9987118696",
+    "secondarypoc": "Pooja"
+  }
+]

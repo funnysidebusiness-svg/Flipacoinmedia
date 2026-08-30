@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "brandname": "Instamart",
+    "location": "Mumbai",
+    "agencyname": "Quantum",
+    "primaryPOC": "Ronika",
+    "pocno": "9987118696",
+    "brandgenre": "Food Delivery App"
+  },
+ {
+    "id": 2,
+    "brandname": "Star Bazaar",
+    "location": "Mumbai",
+    "agencyname": "TYG Media",
+    "primaryPOC": "Raunak",
+    "pocno": "9987118696",
+    "brandgenre": "FMCG Brand"
+  },
+   {
+    "id": 3,
+    "brandname": "Rapido",
+    "location": "Mumbai",
+    "agencyname": "",
+    "primaryPOC": "Raunak",
+    "pocno": "9987118696",
+    "brandgenre": "Traveling App"
+  },
+   {
+    "id": 4,
+    "brandname": "Country Delight",
+    "location": "Mumbai",
+    "agencyname": "",
+    "primaryPOC": "Raunak",
+    "pocno": "9987118696",
+    "brandgenre": "FMCG Brand"
+  },
+  {
+    "id": 5,
+    "brandname": "Sleepwell Mattresses",
+    "location": "Mumbai",
+    "agencyname": "",
+    "primaryPOC": "Raunak",
+    "pocno": "9987118696",
+    "brandgenre": "Furniture"
+  },
+  {
+    "id": 6,
+    "brandname": "Bakingo",
+    "location": "Mumbai",
+    "agencyname": "",
+    "primaryPOC": "Raunak",
+    "pocno": "9987118696",
+    "brandgenre": "Food Brand"
+  }
+]

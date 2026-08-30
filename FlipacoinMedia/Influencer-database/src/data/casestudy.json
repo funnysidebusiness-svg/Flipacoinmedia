@@ -1,0 +1,346 @@
+[
+  {
+    "id": 1,
+    "name": "Instamart Delivery Diaries",
+    "logo": "/brand-images/instamart.png",
+    "creators": [
+      "Sahil Virwani",
+      "Prachi Choudhary",
+      "Anushaya Singh",
+      "Kkrish Singhwani",
+      "Nikhil Lalwani",
+      "Harsh Shetty",
+      "Atharva Khedekar",
+      "Harshada Vijay",
+      "Yash Barua",
+      "Sanjana Rithal",
+      "Comissioner"
+    ],
+    "reelCovers": [
+      {
+        "cover": "/brand-videos/instamart/InstamartEp2.jpg",
+        "video": "/brand-videos/instamart/InstamartEp2.mp4",
+        "creator": "Prachi Choudhary"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp3.jpg",
+        "video": "/brand-videos/instamart/InstamartEp3.mp4",
+        "creator": "Atharva Khedekar"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp4.jpg",
+        "video": "/brand-videos/instamart/InstamartEp4.mp4",
+        "creator": "Hemal Soni"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp7.jpg",
+        "video": "/brand-videos/instamart/InstamartEp7.mp4",
+        "creator": "Harshada Vijay"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp6.jpg",
+        "video": "/brand-videos/instamart/InstamartEp6.mp4",
+        "creator": "Sahil Virwani"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp8.jpg",
+        "video": "/brand-videos/instamart/InstamartEp8.mp4",
+        "creator": "Anushaya Singh"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp10.jpg",
+        "video": "/brand-videos/instamart/InstamartEp10.mp4",
+        "creator": "Sanjana Rithal"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp9.jpg",
+        "video": "/brand-videos/instamart/InstamartEp9.mp4",
+        "creator": "Commissioner"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp11.jpg",
+        "video": "/brand-videos/instamart/InstamartEp11.mp4",
+        "creator": "Harsh Shetty"
+      },
+      {
+        "cover": "/brand-videos/instamart/InstamartEp12.jpg",
+        "video": "/brand-videos/instamart/InstamartEp12.mp4",
+        "creator": "Kkrish Singhwani"
+      }
+    ],
+    "reels": 12,
+    "views": "150M+",
+    "likes": "18K",
+    "comments": "1.5k+",
+    "shares": "8K",
+    "reposts": "300+",
+    "summary": "The Instamart Delivery Diaries campaign achieved exceptional reach 🚀 and high engagement 🔥, powered by top-performing creators that amplified visibility and drove strong audience interaction 🎯",
+    "summaryicon1": "🔥 High Engagement",
+    "summaryicon2": "🚀 Massive Reach",
+    "summaryicon3": "🛍️ Wide Audience Appeal"
+  },
+  {
+    "id": 2,
+    "name": "Star Bazaar",
+    "logo": "/brand-images/star-bazaar.png",
+    "creators": [
+      "Sahil Virwani",
+      "Hemal Soni",
+      "Kkrish Singhwani",
+      "Riya Shroff",
+      "Suvan Pranay",
+      "Gurleen Kaur",
+      "Atharva Khedekar"
+    ],
+    "reelCovers": [
+      {
+        "cover": "/brand-videos/starbazaar/StarSahil.jpg",
+        "video": "/brand-videos/starbazaar/SahilStar.MP4",
+        "creator": "Sahil Virwani"
+      },
+      {
+        "cover": "/brand-videos/starbazaar/StarRiya.jpg",
+        "video": "/brand-videos/starbazaar/RiyaStar.MP4",
+        "creator": "Riya Shroff"
+      },
+      {
+        "cover": "/brand-videos/starbazaar/StarHemal.jpg",
+        "video": "/brand-videos/starbazaar/HemalStar.mp4",
+        "creator": "Hemal Soni"
+      },
+      {
+        "cover": "/brand-videos/starbazaar/StarKkrish.jpg",
+        "video": "/brand-videos/starbazaar/StarKkrish.mp4",
+        "creator": "Kkrish Singhwani"
+      },
+      {
+        "cover": "/brand-videos/starbazaar/StarSuvan.jpg",
+        "video": "/brand-videos/starbazaar/StarSuvan.mp4",
+        "creator": "Suvan Pranay"
+      },
+      {
+        "cover": "/brand-videos/starbazaar/StarAtharva.jpg",
+        "video": "/brand-videos/starbazaar/StarAtharva.mp4",
+        "creator": "Atharva Khedekar"
+      }
+    ],
+    "reels": 6,
+    "views": "6M+",
+    "likes": "180K",
+    "comments": "100+",
+    "shares": "14K",
+    "reposts": "100+",
+    "summary": "Star Bazaar Store Visit Campaign 🛒 delivered solid reach and engagement by leveraging relatable content📊, helping the brand connect effectively with everyday consumers.👨‍👩‍👧‍👦",
+    "summaryicon1": "🛒 Relatable Content",
+    "summaryicon2": "📊 Consistent Reach",
+    "summaryicon3": "👨‍👩‍👧‍👦 Mass Audience Connect"
+  },
+  {
+    "id": 3,
+    "name": "Quillbot",
+    "logo": "/brand-images/quillbot.png",
+    "creators": [
+      "Sahil Virwani",
+      "Hemal Soni",
+      "Riya Shroff",
+      "Amar Babar",
+      "Arohi Khurana",
+      "Luis Rai",
+      "Sanjana Rithal",
+      "Aditi Sunil"
+    ],
+    "reelCovers": [
+      {
+        "cover": "/brand-videos/quillbot/quillbothemal.jpg",
+        "video": "/brand-videos/quillbot/quillbothemal.mp4",
+        "creator": "Hemal Soni"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotsahil.jpg",
+        "video": "/brand-videos/quillbot/quillbotsahil.mp4",
+        "creator": "Sahil Virwani"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotluis.jpg",
+        "video": "/brand-videos/quillbot/quillbotluis.mp4",
+        "creator": "Luis Rai"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotriya.jpg",
+        "video": "/brand-videos/quillbot/quillbotriya.mp4",
+        "creator": "Riya Shroff"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotaditi.jpg",
+        "video": "/brand-videos/quillbot/quillbotaditi.mp4",
+        "creator": "Aditi Sunil"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotatharva.jpg",
+        "video": "/brand-videos/quillbot/quillbotatharva.mp4",
+        "creator": "Atharva Khedekar"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotsanjana.jpg",
+        "video": "/brand-videos/quillbot/quillbotsanjana.mp4",
+        "creator": "Sanjana Rithal"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotamar.jpg",
+        "video": "/brand-videos/quillbot/quillbotamar.mp4",
+        "creator": "Amar Babar"
+      }
+    ],
+    "reels": 8,
+    "views": "2.1M+",
+    "likes": "9K",
+    "comments": "500+",
+    "shares": "8K",
+    "reposts": "700+",
+    "summary": "Quillbot campaign generated consistent engagement and meaningful reach ✍️, driven by creators who effectively connected with a niche 📈, content-focused audience🎯",
+    "summaryicon1": "✍️ Content-Driven Engagement",
+    "summaryicon2": "📈 Steady Reach",
+    "summaryicon3": "🎯 Niche Audience"
+  },
+  {
+    "id": 4,
+    "name": "UGC ",
+    "logo": "/brand-images/country-delight.png",
+    "creators": [
+      "Sahil Virwani",
+      "Hemal Soni",
+      "Anushaya Singh",
+      "Harsshala Barade"
+    ],
+    "reelCovers": [
+      {
+        "cover": "/brand-videos/quillbot/quillbothemal.jpg",
+        "video": "/brand-videos/quillbot/quillbothemal.mp4",
+        "creator": "Hemal Soni"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotsahil.jpg",
+        "video": "/brand-videos/quillbot/quillbotsahil.mp4",
+        "creator": "Sahil Virwani"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotluis.jpg",
+        "video": "/brand-videos/quillbot/quillbotluis.mp4",
+        "creator": "Anushaya Singh"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotriya.jpg",
+        "video": "/brand-videos/quillbot/quillbotriya.mp4",
+        "creator": "Harsshala Barade"
+      }
+    ],
+    "reels": 4,
+    "views": "Unknown",
+    "likes": "Unknown",
+    "comments": "Unknown",
+    "shares": "Unknown",
+    "reposts": "Unknown",
+    "summary": "UGC campaigns generated consistent engagement and meaningful reach ✍️, driven by creators who effectively connected with a niche 📈, content-focused audience🎯",
+    "summaryicon1": "✍️ Content-Driven Engagement",
+    "summaryicon2": "📈 Steady Reach",
+    "summaryicon3": "🎯 Niche Audience"
+  },
+  {
+    "id": 5,
+    "name": "Atomberg",
+    "logo": "/brand-images/atomberg.png",
+    "creators": [
+      "Prachi Choudhary",
+      "Hemal Soni"
+    ],
+    "reelCovers": [
+      {
+        "cover": "/brand-videos/atomberg/AtombergHemal.jpg",
+        "video": "/brand-videos/atomberg/AtombergHemal.mp4",
+        "creator": "Hemal Soni"
+      },
+      {
+        "cover": "/brand-videos/atomberg/AtombergPrachi.jpg",
+        "video": "/brand-videos/atomberg/AtombergPrachi.mp4",
+        "creator": "Prachi Choudhary"
+      }
+    ],
+    "reels": 2,
+    "views": "2M",
+    "likes": "62K",
+    "comments": "300+",
+    "shares": "5.1k",
+    "reposts": "800+",
+    "summary": "The Atomberg campaign delivered strong engagement and impactful reach, powered by creators who resonated deeply with a niche, content-first audience.",
+    "summaryicon1": "🎬 Content Excellence",
+    "summaryicon2": "📈 Scaled Reach",
+    "summaryicon3": "🧩 Niche Audience Fit"
+  },
+  {
+    "id": 6,
+    "name": "Rapido",
+    "logo": "/brand-images/rapido.png",
+    "creators": [
+      "Sahil Virwani",
+      "Hemal Soni",
+      "Riya Shroff",
+      "Amar Babar",
+      "Arohi Khurana",
+      "Luis Rai",
+      "Sanjana Rithal",
+      "Aditi Sunil"
+    ],
+    "reelCovers": [
+      {
+        "cover": "/brand-videos/quillbot/quillbothemal.jpg",
+        "video": "/brand-videos/quillbot/quillbothemal.mp4",
+        "creator": "Hemal Soni"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotsahil.jpg",
+        "video": "/brand-videos/quillbot/quillbotsahil.mp4",
+        "creator": "Sahil Virwani"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotluis.jpg",
+        "video": "/brand-videos/quillbot/quillbotluis.mp4",
+        "creator": "Luis Rai"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotriya.jpg",
+        "video": "/brand-videos/quillbot/quillbotriya.mp4",
+        "creator": "Riya Shroff"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotaditi.jpg",
+        "video": "/brand-videos/quillbot/quillbotaditi.mp4",
+        "creator": "Aditi Sunil"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotatharva.jpg",
+        "video": "/brand-videos/quillbot/quillbotatharva.mp4",
+        "creator": "Atharva Khedekar"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotsanjana.jpg",
+        "video": "/brand-videos/quillbot/quillbotsanjana.mp4",
+        "creator": "Sanjana Rithal"
+      },
+      {
+        "cover": "/brand-videos/quillbot/quillbotamar.jpg",
+        "video": "/brand-videos/quillbot/quillbotamar.mp4",
+        "creator": "Amar Babar"
+      }
+    ],
+    "reels": 3,
+    "views": "2.1M+",
+    "likes": "9K",
+    "comments": "500+",
+    "shares": "8K",
+    "reposts": "700+",
+    "summary": "Rapido campaign generated consistent engagement and meaningful reach ✍️, driven by creators who effectively connected with a niche 📈, content-focused audience🎯",
+    "summaryicon1": "✍️ Content-Driven Engagement",
+    "summaryicon2": "📈 Steady Reach",
+    "summaryicon3": "🎯 Niche Audience"
+  }
+]

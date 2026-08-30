@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "Sahil Virwani",
+    "image": "../../creator-images/Sahil-virwani.jpg",
+    "genre": "Acting",
+    "location": "Mumbai",
+    "instagramFollowers": 136000,
+    "youtubeFollowers": 245000,
+    "instagramUrl": "https://www.instagram.com/sahilvirwanii",
+    "youtubeUrl": "https://youtube.com/@example_aarav"
+  },
+  {
+    "id": 2,
+    "name": "Hemal Soni",
+    "image": "../../creator-images/hemal.jpg",
+    "genre": "Acting",
+    "location": "Mumbai",
+    "instagramFollowers": 275000,
+    "youtubeFollowers": 10000,
+    "instagramUrl": "https://www.instagram.com/hemallsoni",
+    "youtubeUrl": "https://youtube.com/@example_sofia"
+  },
+  {
+    "id": 3,
+    "name": "Bushman Nikh",
+    "image": "../../creator-images/Bushman.jpg",
+    "genre": "Comedy",
+    "location": "Mumbai",
+    "instagramFollowers": 362000,
+    "youtubeFollowers": 50000,
+    "instagramUrl": "https://www.instagram.com/bushman_nikh_india/",
+    "youtubeUrl": "https://youtube.com/@example_lucas"
+  },
+  {
+    "id": 4,
+    "name": "Harsesh Makwana",
+    "image": "../../creator-images/Harsesh.jpg",
+    "genre": "Comedy",
+    "location": "Mumbai",
+    "instagramFollowers": 20000,
+    "youtubeFollowers": 10000,
+    "instagramUrl": "https://www.instagram.com/itstooomakwana/",
+    "youtubeUrl": "https://youtube.com/@example_emily"
+  },
+  {
+    "id": 5,
+    "name": "Sahil Mhasvadkar",
+    "image": "../../creator-images/SahilM.jpg",
+    "genre": "Acting",
+    "location": "Mumbai",
+    "instagramFollowers": 5000,
+    "youtubeFollowers": 10600,
+    "instagramUrl": "https://www.instagram.com/unpossibleindian/",
+    "youtubeUrl": "https://youtube.com/@example_kenji"
+  },
+  {
+    "id": 6,
+    "name": "Sirin Hazari",
+    "image": "../../creator-images/Sirin.jpg",
+    "genre": "Fashion & Lifestyle",
+    "location": "Kolkata",
+    "instagramFollowers": 525000,
+    "youtubeFollowers": 10000,
+    "instagramUrl": "https://www.instagram.com/sirin_hazari",
+    "youtubeUrl": "https://youtube.com/@example_mia"
+  },
+   {
+    "id": 7,
+    "name": "Arohi Khurana",
+    "image": "../../creator-images/arohi.jpg",
+    "genre": "Acting",
+    "location": "Mumbai",
+    "instagramFollowers": 1400000,
+    "youtubeFollowers": 10000,
+    "instagramUrl": "https://www.instagram.com/arohikhurana_/",
+    "youtubeUrl": "https://youtube.com/@example_mia"
+  },
+   {
+    "id": 8,
+    "name": "Mansi Khanvilkar",
+    "image": "../../creator-images/mansi.jpg",
+    "genre": "Fashion & Lifestyle",
+    "location": "Thane",
+    "instagramFollowers": 3200,
+    "youtubeFollowers": 1000,
+    "instagramUrl": "https://www.instagram.com/mansikhanvilkar_/",
+    "youtubeUrl": "https://youtube.com/@example_mia"
+  },
+   {
+    "id": 9,
+    "name": "Prachi Chaudary",
+    "image": "../../creator-images/prachi.jpg",
+    "genre": "Acting",
+    "location": "Thane",
+    "instagramFollowers": 82000,
+    "youtubeFollowers": 250000,
+    "instagramUrl": "https://www.instagram.com/prachii_chaudharii/",
+    "youtubeUrl": "https://youtube.com/@example_mia"
+  },
+   {
+    "id": 10,
+    "name": "The Junkies",
+    "image": "../../creator-images/junkies.jpeg",
+    "genre": "Entertainment",
+    "location": "Mumbai",
+    "instagramFollowers": 26000,
+    "youtubeFollowers": 740000,
+    "instagramUrl": "https://www.instagram.com/official_thejunkies",
+    "youtubeUrl": "https://youtube.com/@example_mia"
+  },
+   {
+    "id": 11,
+    "name": "Yash Barua",
+    "image": "../../creator-images/yashbarua.jpg",
+    "genre": "Acting",  
+    "location": "Mumbai",
+    "instagramFollowers": 16000,
+    "youtubeFollowers": 1000,
+    "instagramUrl": "https://www.instagram.com/yashhbarua/",
+    "youtubeUrl": "https://youtube.com/@example_mia"
+  },
+   {
+    "id": 12,
+    "name": "Harsshala Barade",
+    "image": "../../creator-images/Harsshala.jpg",
+    "genre": "Acting",  
+    "location": "Mumbai",
+    "instagramFollowers": 135000,
+    "youtubeFollowers": 1000,
+    "instagramUrl": "https://www.instagram.com/harsshala_barade/",
+    "youtubeUrl": "https://youtube.com/@example_mia"
+  },
+   {
+    "id": 13,
+    "name": "Anushaya Singh",
+    "image": "../../creator-images/Anushaya.jpg",
+    "genre": "Acting",  
+    "location": "Mumbai",
+    "instagramFollowers": 30000,
+    "youtubeFollowers": 1000,
+    "instagramUrl": "https://www.instagram.com/anushayaaa_",
+    "youtubeUrl": "https://youtube.com/@anussh_?si=uZgGqMXdAM0UbdXu"
+  },
+  {
+    "id": 14,
+    "name": "Sanjana Rithal",
+    "image": "../../creator-images/Sanjana.jpg",
+    "genre": "Acting",  
+    "location": "Mumbai",
+    "instagramFollowers": 40000,
+    "youtubeFollowers": 50000,
+    "instagramUrl": "https://www.instagram.com/simplysanjanaaaa/",
+    "youtubeUrl": "https://youtube.com/@sanjanarithal"
+  }
+]
