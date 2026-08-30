@@ -47,13 +47,7 @@ export default function About() {
       role: "Chief Operations Officer",
       image: "../../creator-images/sahil-mhasvadkar.jpg",
       bio: "Ensuring smooth operations and strategic growth.",
-    },
-    {
-      name: "Yash Barua",
-      role: "Business Alliance and Partnerships",
-      image: "../../creator-images/yash-barua.jpg",
-      bio: "Brings brands to life with creativity and strategy.",
-    },
+    },                                                                                                                                                                                                                                                                                                                                                                                               
     {
       name: "Harsh Lad",
       role: "Head of Production",
